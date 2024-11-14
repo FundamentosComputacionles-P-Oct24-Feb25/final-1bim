@@ -11,6 +11,8 @@
 	* Problema 06: algoritmo, miniespecificación y diagrama de flujo
 	* Problema 07: miniespecificación y diagrama de flujo
 	* Problema 08: miniespecificación
+	* Problema 09: miniespecificación
+	* Problema 10: miniespecificación
 
 ## Problemáticas
 
@@ -25,13 +27,13 @@
 <hr/>
 
 ### Problema 02
-> En un almacén de venta de trajes, si se compra uno se hace el 20% de descuento, si se compran 2, el 25%, si se compran 3, el 40%, y si compra más de 3, el 50%. Elaborar un algoritmo que lea la cantidad de trajes y el precio unitario (todos tienen el mismo precio) e imprima el subtotal por pagar, el descuento y el total por pagar.
+> En un almacén de venta de trajes, si se compra uno se hace el 10% de descuento, si se compran 2, el 20%, si se compran 3, el 40%, y si compra más de 3, el 60%. Elaborar un algoritmo que lea la cantidad de trajes y el precio unitario (todos tienen el mismo precio) e imprima el subtotal por pagar, el descuento y el total por pagar.
 
  Ejercicio tomado de: López Román, Leobardo. (2013) Metodología programación orientada a objetos. México
 <hr/>
 
 ### Problema 03
-> Elaborar un algoritmo que permita leer 3 números e imprima el mayor. Debe validar que sean diferentes, es decir, si hay números iguales debe enviar un mensaje de error.
+> Elaborar un algoritmo que permita leer 3 números e imprima el mayor. Debe validar que sean diferentes, es decir, si hay números iguales debe enviar un mensaje de error con un mensaje que diga: "LOS VALORES SON IGUALES"
 
 Ejercicio tomado de: López Román, Leobardo. (2013) Metodología programación orientada a objetos. México
 <hr/>
@@ -93,7 +95,7 @@ Ejercicio tomado de:  Farrell, J. (2013). Introducción a la programación lógi
 
 ### Problema 10
 #### Use ciclos repetitivos
-> Escriba un algoritmo que seleccione y despliegue los primeros 20 números enteros que sean divisibles entre 7.
+> Escriba un algoritmo que seleccione y presente los primeros 20 números enteros que sean divisibles entre 7.
 
 ### Importante
 * **Fecha de presentación**: 26 de noviembre
